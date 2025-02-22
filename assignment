@@ -4,7 +4,6 @@
         <title>Media in html</title>
     </head>
     <body>
-        <h1>image</h1>
         <image control>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/uW7uLfpZ7uo?si=KvUUoaAoTTOVaUET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </image>
